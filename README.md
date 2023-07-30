@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @RAJNISH2872
+- 👀 I’m interested in programing...
+- 🌱 I’m currently learning linux..
+- 💞️ I’m looking to collaborate on kali linux...
+- 📫 How to reach me is possible...
+<!---
+RAJNISH2872/RAJNISH2872 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
